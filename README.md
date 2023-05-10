@@ -1,1 +1,1 @@
-Basic shell commnads
+Basic shell commands
