@@ -1,1 +1,0 @@
-learing shell redirection commands
