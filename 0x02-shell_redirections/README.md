@@ -6,6 +6,7 @@ This project practics was created to learn the about the command used for redire
                       TECHNOLOGIES
 
 . All codes were written in ubuntu 20.04 LTS.
+. 
 
 
                       PROJECT FILES
