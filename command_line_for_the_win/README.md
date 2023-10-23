@@ -12,7 +12,7 @@ Requirements
     Create a screenshot, showing that you completed the required levels
     Push this screenshot with the right name to GitHub, in either the PNG or JPEG format
 
-##How to transfter files using sftp
+## How to transfter files using sftp
 
 
 1.) Enter the directory that has the screenshot
