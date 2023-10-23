@@ -14,14 +14,20 @@ Requirements
 
 ##How to transfter files using sftp
 
+
 1.) Enter the directory that has the screenshot
+
 
 2.) Then type sftp username@hostname
 
+
 3.) It will prompt for a password enter the sandbox password
+
 
 4.) The cd to the github directory on your sandbox that you want the files to be saved in.
 
+
 5.) Use (put 0_first.png ) to send the file to the sandbox directory.
+
 
 6.) After sending all the files you need you can now push all of them.
